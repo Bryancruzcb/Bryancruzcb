@@ -1,0 +1,11 @@
+# Local-only. Needed to regenerate the ASCII portrait when the photo changes.
+# Never installed in CI -- rembg alone pulls onnxruntime plus a ~176MB model.
+#
+#   pip install -r scripts/requirements-portrait.txt
+#   python scripts/prep_photo.py source-photo.jpg
+#   python scripts/make_ascii_svg.py --ramp mid --light
+pillow
+numpy
+opencv-python-headless
+rembg
+onnxruntime

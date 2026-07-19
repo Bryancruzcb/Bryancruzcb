@@ -1,0 +1,143 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="628" height="748" viewBox="0 0 628 748" role="img" aria-label="ASCII portrait of Bryan Cruz">
+<style>
+    .bg   { fill: #f6f8fa; stroke: #d0d7de; }
+    text  { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 11px;
+             fill: #24292f; white-space: pre; }
+    .r    { clip-path: inset(0 100% 0 0);
+             animation: type 0.34s steps(25, end) forwards; }
+    .cur  { fill: #1a7f37; opacity: 0;
+             animation: ride 0.34s steps(25, end) forwards,
+                        gone .01s linear forwards; }
+    @keyframes type { to { clip-path: inset(0 0 0 0); } }
+    @keyframes ride {
+      from { opacity: 1; transform: translateX(0); }
+      to   { opacity: 1; transform: translateX(594px); }
+    }
+    @keyframes gone { to { opacity: 0; } }
+    @media (prefers-reduced-motion: reduce) {
+      .r   { animation: none; clip-path: none; }
+      .cur { animation: none; opacity: 0; }
+    }
+  </style>
+<rect class="bg" x=".5" y=".5" width="627" height="747" rx="10"/>
+<text class="r" x="14" y="23" xml:space="preserve" style="animation-delay:0.0s">                                                                                                    </text>
+<rect class="cur" x="14" y="14" width="6" height="11" style="animation-delay:0.0s,0.34s"/>
+<text class="r" x="14" y="35" xml:space="preserve" style="animation-delay:0.035s">                                                          .....                                     </text>
+<rect class="cur" x="14" y="26" width="6" height="11" style="animation-delay:0.035s,0.375s"/>
+<text class="r" x="14" y="47" xml:space="preserve" style="animation-delay:0.07s">                                                       -+====---=--:.                               </text>
+<rect class="cur" x="14" y="38" width="6" height="11" style="animation-delay:0.07s,0.41s"/>
+<text class="r" x="14" y="59" xml:space="preserve" style="animation-delay:0.105s">                                    .:---:::-==.     :+=:....::::-==+++:                            </text>
+<rect class="cur" x="14" y="50" width="6" height="11" style="animation-delay:0.105s,0.445s"/>
+<text class="r" x="14" y="71" xml:space="preserve" style="animation-delay:0.14s">                                  :-:::..-====+=:..-+*-:-=+****%%%%*=-+%+:. .                       </text>
+<rect class="cur" x="14" y="62" width="6" height="11" style="animation-delay:0.14s,0.48s"/>
+<text class="r" x="14" y="83" xml:space="preserve" style="animation-delay:0.175s">                            ::-++==:-==+++**+*++=+***-:=+=-:.  :++*@@#=-++=+*+:..                   </text>
+<rect class="cur" x="14" y="74" width="6" height="11" style="animation-delay:0.175s,0.515s"/>
+<text class="r" x="14" y="95" xml:space="preserve" style="animation-delay:0.21s">                           +#+*+++++*==+=--+******#%*+*==.  .:--+**#%@@*=+***+*++=:.                </text>
+<rect class="cur" x="14" y="86" width="6" height="11" style="animation-delay:0.21s,0.55s"/>
+<text class="r" x="14" y="107" xml:space="preserve" style="animation-delay:0.245s">                        .:=*-=++####*+*#***#**#%%@@@@@@@@%%######%%#%@@@%%#+-::**-++-               </text>
+<rect class="cur" x="14" y="98" width="6" height="11" style="animation-delay:0.245s,0.585s"/>
+<text class="r" x="14" y="119" xml:space="preserve" style="animation-delay:0.28s">                     :-=*#*+++*%#%%###%%%%%#%%@@@@@@@@@@@@@@@@%##%%%@@@@@%%###*##..++-              </text>
+<rect class="cur" x="14" y="110" width="6" height="11" style="animation-delay:0.28s,0.62s"/>
+<text class="r" x="14" y="131" xml:space="preserve" style="animation-delay:0.315s">                   :==*#*==++*###%%%%%@%###%%@%@@@@@@@@@@@@@@@@@@%%@@@@@@%%#*%@#*=.++--             </text>
+<rect class="cur" x="14" y="122" width="6" height="11" style="animation-delay:0.315s,0.655s"/>
+<text class="r" x="14" y="143" xml:space="preserve" style="animation-delay:0.35s">                  -*+#%@%%%@@@@@@%%%%@@####%@@@@@@@@@@@@@@@@@@@@@@##%@@@@@%#++*%##%+..+             </text>
+<rect class="cur" x="14" y="134" width="6" height="11" style="animation-delay:0.35s,0.69s"/>
+<text class="r" x="14" y="155" xml:space="preserve" style="animation-delay:0.385s">                .=*:=#%%@@@@@@@@@@@@@@%%%%%%%@@@@@@@%##%%#%@@@@@@@@#*#%@@%%%#*=+####. +.            </text>
+<rect class="cur" x="14" y="146" width="6" height="11" style="animation-delay:0.385s,0.725s"/>
+<text class="r" x="14" y="167" xml:space="preserve" style="animation-delay:0.42s">              .-+*+*%@@@@%@@@@@@@@@@@@%@%%#%%@@@@@@@@%%#####%@@%%%%%*#%%%%%%@@%###*#=.++            </text>
+<rect class="cur" x="14" y="158" width="6" height="11" style="animation-delay:0.42s,0.76s"/>
+<text class="r" x="14" y="179" xml:space="preserve" style="animation-delay:0.455s">             :+#%**%@@@@%%@@@@@@@@@@@@@%##%@@@@@@@@@@@@@%%#*#%@%#%%%#%@%@%%%@@@@%%***=+#+=:         </text>
+<rect class="cur" x="14" y="170" width="6" height="11" style="animation-delay:0.455s,0.795s"/>
+<text class="r" x="14" y="191" xml:space="preserve" style="animation-delay:0.49s">        .=  -+##++#%%@@@@@%@@@%%%@@@%#**#%%@@@@@@@@@@@@@@%%##*#%@@%##%%@@@@@@@@@@@@%###***+---      </text>
+<rect class="cur" x="14" y="182" width="6" height="11" style="animation-delay:0.49s,0.83s"/>
+<text class="r" x="14" y="203" xml:space="preserve" style="animation-delay:0.525s">       :%+:***#**#%%@@@@@%###%%%@@@%##*##%%%@@@@@@@@@@@@@@%###%%%###%%@@@@@@@@@@@@@%%#*##*+==#=     </text>
+<rect class="cur" x="14" y="194" width="6" height="11" style="animation-delay:0.525s,0.865s"/>
+<text class="r" x="14" y="215" xml:space="preserve" style="animation-delay:0.56s">    .:=#%****####%@@@@@@@@%####%%@@@@%@%%%%####%@@@%@@@@@@@%%%%%%%@@@@@@@@@@@%%@@%#**#%%%#*#: +.    </text>
+<rect class="cur" x="14" y="206" width="6" height="11" style="animation-delay:0.56s,0.9s"/>
+<text class="r" x="14" y="227" xml:space="preserve" style="animation-delay:0.595s">  :*+=**@*=*###%@@%%%@@@%#@@@@@@@@@@@@@@@%%%%%@@@@@%%@@@@@%%%%%@@@@@@@@@@@@@@@%#%@@@@@@@@@%%*::=.   </text>
+<rect class="cur" x="14" y="218" width="6" height="11" style="animation-delay:0.595s,0.935s"/>
+<text class="r" x="14" y="239" xml:space="preserve" style="animation-delay:0.63s">   .  -+%+*%%%%%@%@@@@@%*%@@@@@@@@@@@@@@@%#%%@@@@@@@@@@@@@@@@@@@@@%%%%@@@@@@@@@%##@@@@@@@@@%%+-:*:  </text>
+<rect class="cur" x="14" y="230" width="6" height="11" style="animation-delay:0.63s,0.97s"/>
+<text class="r" x="14" y="251" xml:space="preserve" style="animation-delay:0.665s">      -++*@@%##%%@@@@@%%@@@@%%@@%@@@@@@@@@@%%@@@@@@@@@@@@@@@@@@@@@%%%@@@@@@@@@%%%##@@@@%@@@%**-.-#  </text>
+<rect class="cur" x="14" y="242" width="6" height="11" style="animation-delay:0.665s,1.005s"/>
+<text class="r" x="14" y="263" xml:space="preserve" style="animation-delay:0.7s">       *-+%@%%%%%@@%%@@@@@@%#%%%%%%#%@@%%%###%@%%@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@%##@@@%%@%@#+: :*- </text>
+<rect class="cur" x="14" y="254" width="6" height="11" style="animation-delay:0.7s,1.04s"/>
+<text class="r" x="14" y="275" xml:space="preserve" style="animation-delay:0.735s">     .-+=*%%@@@##@@@@@@@@@%%%%%####*%%%#%%%%%%%**%@@@@@@%%%%@@@%%%#%@@%%#%%@@@@@@@%%%@@@*#%%%+  .-= </text>
+<rect class="cur" x="14" y="266" width="6" height="11" style="animation-delay:0.735s,1.075s"/>
+<text class="r" x="14" y="287" xml:space="preserve" style="animation-delay:0.77s">   .-++*+*%%%@@%#@@@@@@@@@%@%%%#%#**#%#%@@@%%%*++*#%%%@@#%#####*+++*%###*##%%@@@@@@@@@@@#*##%*   .- </text>
+<rect class="cur" x="14" y="278" width="6" height="11" style="animation-delay:0.77s,1.11s"/>
+<text class="r" x="14" y="299" xml:space="preserve" style="animation-delay:0.805s"> .--::*#%###%@@%#%@@%##@@%%%%%%%@%%*##%%@@@@%#**=-+###%@@@%##**+===+********%%@@@@@@@@@%#*##%%+: .- </text>
+<rect class="cur" x="14" y="290" width="6" height="11" style="animation-delay:0.805s,1.145s"/>
+<text class="r" x="14" y="311" xml:space="preserve" style="animation-delay:0.84s">==+=+*%@@%##@%%%%##%%##@%##%%%@@%@%%%%@@@@@@@#*=::=*%#%@@@@###*+-::=#**#++*#@@@@@@@@@@@%%%#%###: .- </text>
+<rect class="cur" x="14" y="302" width="6" height="11" style="animation-delay:0.84s,1.18s"/>
+<text class="r" x="14" y="323" xml:space="preserve" style="animation-delay:0.875s">=-==:=@@@%#%@@%#%@##%%@%##%#%%@%%@*#@@@@@@@@@#=:..:=#%%@@@@@%@#+-..:%%%**##@@%@@@@@@@@%%@@@@%##+::- </text>
+<rect class="cur" x="14" y="314" width="6" height="11" style="animation-delay:0.875s,1.215s"/>
+<text class="r" x="14" y="335" xml:space="preserve" style="animation-delay:0.91s">-+. .+%@@%%@@@%%%%%%@@@%@@%%@@%%#++%@@@@@###@@=    .=#%@@@@@@@@+-:..*@%%%%@@%%@@@@@@@%%@@@@%%%*=+:+.</text>
+<rect class="cur" x="14" y="326" width="6" height="11" style="animation-delay:0.91s,1.25s"/>
+<text class="r" x="14" y="347" xml:space="preserve" style="animation-delay:0.945s"> .*:..-#@%%@@@%%%@@@@@@@@%@@%#+=-=%%@@%#*-:-=%%.    .-+#@@@@@@@@+==.-@@@@@@@@@@@@@@@@@@@@@@%###--+- </text>
+<rect class="cur" x="14" y="338" width="6" height="11" style="animation-delay:0.945s,1.285s"/>
+<text class="r" x="14" y="359" xml:space="preserve" style="animation-delay:0.98s">.*#*:.:+@@@@@@@@@@@@@@@@@@@%*+==*%%@%*=.     -*#=.     .-*%@@@@@@####%@@#**#%@@@@@@@@@@@@@@@%#%#==. </text>
+<rect class="cur" x="14" y="350" width="6" height="11" style="animation-delay:0.98s,1.32s"/>
+<text class="r" x="14" y="371" xml:space="preserve" style="animation-delay:1.015s"> +:-+*##%%%%@@@@@@@@@@@@@@%####@@@@@#=::.      .=-:      ..-*%@@@@@@@@@@%*****###%@@@@@@@@%%@%%#==  </text>
+<rect class="cur" x="14" y="362" width="6" height="11" style="animation-delay:1.015s,1.355s"/>
+<text class="r" x="14" y="383" xml:space="preserve" style="animation-delay:1.05s">  :-++++=*%#%@@@@@@%%##+=---===+****##*=-::...       ..:---=+*##%%%%%%%%%%##***+==%@@@@@@@%@@%%*--  </text>
+<rect class="cur" x="14" y="374" width="6" height="11" style="animation-delay:1.05s,1.39s"/>
+<text class="r" x="14" y="395" xml:space="preserve" style="animation-delay:1.085s">    .-#+-#@@%@@@@@+=-:.         .:-==++===--::.     ::--=+++**+++=-::::--=----=**=+@@@%@@@%@%%*==:  </text>
+<rect class="cur" x="14" y="386" width="6" height="11" style="animation-delay:1.085s,1.425s"/>
+<text class="r" x="14" y="407" xml:space="preserve" style="animation-delay:1.12s">      :=--#@@@@@@*...   ..::..   .:--==++++=-::.   .:-=+**++==--:..         ...----%@@@@%%@@%%--=   </text>
+<rect class="cur" x="14" y="398" width="6" height="11" style="animation-delay:1.12s,1.46s"/>
+<text class="r" x="14" y="419" xml:space="preserve" style="animation-delay:1.155s">       .--=@@@@@%.    .:::.........:---=++++-:.    .:=+**+=--::.     .:--:.    ....=@@@@%%%%%#-=    </text>
+<rect class="cur" x="14" y="410" width="6" height="11" style="animation-delay:1.155s,1.495s"/>
+<text class="r" x="14" y="431" xml:space="preserve" style="animation-delay:1.19s">         -=%@@@%-    .::-=+**+%%*%##*+=--===-.     .-=+==-:-=+====++==---=-::..   ..*@@%%%@%%=-.    </text>
+<rect class="cur" x="14" y="422" width="6" height="11" style="animation-delay:1.19s,1.53s"/>
+<text class="r" x="14" y="443" xml:space="preserve" style="animation-delay:1.225s">         .++#@%*.    .:=**#+..%@@@@%-=+=..:--:.   .:==-:..=#*-:@@@@@@+*##*+-::..  ..=@@%%@%%+=:     </text>
+<rect class="cur" x="14" y="434" width="6" height="11" style="animation-delay:1.225s,1.565s"/>
+<text class="r" x="14" y="455" xml:space="preserve" style="animation-delay:1.26s">          :==*#=..    .:-===---++==--::-. .--:     .-=-:  --:..=*%%%+.:*##*+-:.   ..-%%@@@#==.      </text>
+<rect class="cur" x="14" y="446" width="6" height="11" style="animation-delay:1.26s,1.6s"/>
+<text class="r" x="14" y="467" xml:space="preserve" style="animation-delay:1.295s">           .=+#-..       ...::::::::..  .:--:.     .-==-:.   .::--==-=====-:.    ...-#%@@#==        </text>
+<rect class="cur" x="14" y="458" width="6" height="11" style="animation-delay:1.295s,1.635s"/>
+<text class="r" x="14" y="479" xml:space="preserve" style="animation-delay:1.33s">            .++::..           ....     .:---:.     :-==--:.    ..:::::::...      ..:-##%*+=.        </text>
+<rect class="cur" x="14" y="470" width="6" height="11" style="animation-delay:1.33s,1.67s"/>
+<text class="r" x="14" y="491" xml:space="preserve" style="animation-delay:1.365s">            --=:::.            ....  ..:-:--:.     :=+=--:.        ...          ...:=##+-+.         </text>
+<rect class="cur" x="14" y="482" width="6" height="11" style="animation-delay:1.365s,1.705s"/>
+<text class="r" x="14" y="503" xml:space="preserve" style="animation-delay:1.4s">           .=-=:::..                 .::----:.    .:=++=--:.                   ...::+#=--.          </text>
+<rect class="cur" x="14" y="494" width="6" height="11" style="animation-delay:1.4s,1.74s"/>
+<text class="r" x="14" y="515" xml:space="preserve" style="animation-delay:1.435s">            =-=--::..               ..:--=--:.    .:=+++=-:.                  ...:::+#--            </text>
+<rect class="cur" x="14" y="506" width="6" height="11" style="animation-delay:1.435s,1.775s"/>
+<text class="r" x="14" y="527" xml:space="preserve" style="animation-delay:1.47s">            .=---::....             ..:==-:..     .::=+++-:.                 ...::::*+--            </text>
+<rect class="cur" x="14" y="518" width="6" height="11" style="animation-delay:1.47s,1.81s"/>
+<text class="r" x="14" y="539" xml:space="preserve" style="animation-delay:1.505s">             -----::...             ..--:...       .::==+=.                .....:::-*-=.            </text>
+<rect class="cur" x="14" y="530" width="6" height="11" style="animation-delay:1.505s,1.845s"/>
+<text class="r" x="14" y="551" xml:space="preserve" style="animation-delay:1.54s">             .=----::...            .::...          .::::=-.               ...:::::+=--             </text>
+<rect class="cur" x="14" y="542" width="6" height="11" style="animation-delay:1.54s,1.88s"/>
+<text class="r" x="14" y="563" xml:space="preserve" style="animation-delay:1.575s">              =----:::...           ::..::.        .:::::-+-            .....::--:-+-=              </text>
+<rect class="cur" x="14" y="554" width="6" height="11" style="animation-delay:1.575s,1.915s"/>
+<text class="r" x="14" y="575" xml:space="preserve" style="animation-delay:1.61s">              :=:---::.. .          :==*#*=-::::::-+**+=-=++.         .....::-----+=+-              </text>
+<rect class="cur" x="14" y="566" width="6" height="11" style="animation-delay:1.61s,1.95s"/>
+<text class="r" x="14" y="587" xml:space="preserve" style="animation-delay:1.645s">               -----::....  ...     .-+#%*+++****##%%%%#***-.       .....::::----===*.              </text>
+<rect class="cur" x="14" y="578" width="6" height="11" style="animation-delay:1.645s,1.985s"/>
+<text class="r" x="14" y="599" xml:space="preserve" style="animation-delay:1.68s">               .+:--::::........     .:-==-.:-=+++==**+++=:.      ..::-:.::-------=-.               </text>
+<rect class="cur" x="14" y="590" width="6" height="11" style="animation-delay:1.68s,2.02s"/>
+<text class="r" x="14" y="611" xml:space="preserve" style="animation-delay:1.715s">                =::--::::::....     ...::::. .....:-=-:...     .....::=-:::-----:=:                 </text>
+<rect class="cur" x="14" y="602" width="6" height="11" style="animation-delay:1.715s,2.055s"/>
+<text class="r" x="14" y="623" xml:space="preserve" style="animation-delay:1.75s">                :-:-::::::::::......::::::...:....:----:....   ...::--::-------:=-                  </text>
+<rect class="cur" x="14" y="614" width="6" height="11" style="animation-delay:1.75s,2.09s"/>
+<text class="r" x="14" y="635" xml:space="preserve" style="animation-delay:1.785s">                 =.:-:::::::::--:::::::... .::...  .::::::..::::..::---::---=-:-+                   </text>
+<rect class="cur" x="14" y="626" width="6" height="11" style="animation-delay:1.785s,2.125s"/>
+<text class="r" x="14" y="647" xml:space="preserve" style="animation-delay:1.82s">                 :-.---::::--===--::. ..:::....   ........::--=--:::::::--==-:-*.                   </text>
+<rect class="cur" x="14" y="638" width="6" height="11" style="animation-delay:1.82s,2.16s"/>
+<text class="r" x="14" y="659" xml:space="preserve" style="animation-delay:1.855s">                  -::----::-=====-:-==+**+++-:::-=++=--::::::-===---:::--==-:-+.                    </text>
+<rect class="cur" x="14" y="650" width="6" height="11" style="animation-delay:1.855s,2.195s"/>
+<text class="r" x="14" y="671" xml:space="preserve" style="animation-delay:1.89s">                   =:-----:--=++**######**#######%%########***+=---:::--===.:+.                     </text>
+<rect class="cur" x="14" y="662" width="6" height="11" style="animation-delay:1.89s,2.23s"/>
+<text class="r" x="14" y="683" xml:space="preserve" style="animation-delay:1.925s">                   :=:====---===-=+===--===++****+++===+++*#+++=--:::-====::+.                      </text>
+<rect class="cur" x="14" y="674" width="6" height="11" style="animation-delay:1.925s,2.265s"/>
+<text class="r" x="14" y="695" xml:space="preserve" style="animation-delay:1.96s">                    ---=+==-------====---::::.:::::::-----=----------==+=::=.                       </text>
+<rect class="cur" x="14" y="686" width="6" height="11" style="animation-delay:1.96s,2.3s"/>
+<text class="r" x="14" y="707" xml:space="preserve" style="animation-delay:1.995s">                     ---===--------=====---:.....:::----=-----:--==++*++--=                         </text>
+<rect class="cur" x="14" y="698" width="6" height="11" style="animation-delay:1.995s,2.335s"/>
+<text class="r" x="14" y="719" xml:space="preserve" style="animation-delay:2.03s">                      ---==---::----=====+++++=+===--======------=+****=--                          </text>
+<rect class="cur" x="14" y="710" width="6" height="11" style="animation-delay:2.03s,2.37s"/>
+<text class="r" x="14" y="731" xml:space="preserve" style="animation-delay:2.065s">                       --==---:::::--=++****###**++++++++=------==+*##*-+=:                         </text>
+<rect class="cur" x="14" y="722" width="6" height="11" style="animation-delay:2.065s,2.405s"/>
+</svg>

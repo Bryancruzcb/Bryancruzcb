@@ -1,0 +1,8 @@
+# CI dependencies -- installed by .github/workflows/update-profile-art.yml on
+# every daily run. Keep this file minimal.
+#
+# The portrait toolchain (pillow, numpy, opencv, rembg) is deliberately NOT
+# here: it is local-only and pulls ~500MB plus an ONNX model. See
+# requirements-portrait.txt.
+requests==2.32.3
+beautifulsoup4==4.12.3
