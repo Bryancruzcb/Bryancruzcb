@@ -1,0 +1,49 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Profile header preview</title>
+<style>
+  :root { --bg: #0d1117; --fg: #c9d1d9; --dim: #8b949e;
+          --accent: #58a6ff; --rule: #21262d; }
+  body.light { --bg: #ffffff; --fg: #1f2328; --dim: #59636e;
+               --accent: #0969da; --rule: #d0d7de; }
+  body { background: var(--bg); color: var(--fg); margin: 0;
+         padding: 30px 34px 60px;
+         font: 13px ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
+  .bar { display: flex; gap: 10px; align-items: center; margin-bottom: 26px; }
+  button { font: inherit; background: transparent; color: var(--fg);
+           border: 1px solid var(--rule); border-radius: 6px;
+           padding: 5px 12px; cursor: pointer; }
+  button:hover { border-color: var(--accent); color: var(--accent); }
+  .hint { color: var(--dim); }
+  .prompt { margin: 24px 0 8px; }
+  .prompt b { color: var(--accent); font-weight: 400; }
+  .stack { width: 860px; max-width: 100%; }
+  .stack > img { width: 860px; max-width: 100%; display: block; }
+  .pair { display: flex; }
+  .pair img.p { width: 370px; display: block; }
+  .pair img.c { width: 490px; display: block; }
+</style>
+</head>
+<body>
+
+<div class="bar">
+  <button onclick="document.body.classList.toggle('light')">toggle light / dark</button>
+  <button onclick="location.reload()">replay animation</button>
+  <span class="hint">&larr; check the art stays legible on BOTH GitHub themes</span>
+</div>
+
+<div class="stack">
+  <div class="prompt"><b>bryan@github ~ $</b> ./contributions.sh</div>
+  <img src="./contrib-heatmap.svg" alt="heatmap">
+
+  <div class="prompt"><b>bryan@github ~ $</b> whoami</div>
+  <div class="pair">
+    <img class="p" src="./bryan-ascii.svg" alt="portrait">
+    <img class="c" src="./info-card.svg" alt="info card">
+  </div>
+</div>
+
+</body>
+</html>

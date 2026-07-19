@@ -1,0 +1,9 @@
+# The ASCII portrait is an abstraction of a face; the source photo is not, and
+# this repo is public. The committed SVG is the deliverable -- a fresh clone
+# does not need the original to render the profile.
+source-photo.*
+source-prepped.png
+
+# Local preview harness output
+.venv/
+__pycache__/

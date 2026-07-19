@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="329" viewBox="0 0 490 329" role="img" aria-label="Profile info card">
+<style>
+    .bg  { fill: #0d1117; stroke: #21262d; }
+    text { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; font-size: 12px; }
+    .t   { fill: #58a6ff; font-weight: 700; }
+    .k   { fill: #7ee787; font-weight: 600; }
+    .v   { fill: #c9d1d9; }
+    .d   { fill: #8b949e; }
+    .row { opacity: 0; animation: slide .5s ease-out forwards; }
+    @keyframes slide {
+      from { opacity: 0; transform: translateX(-8px); }
+      to   { opacity: 1; transform: translateX(0);    }
+    }
+    @media (prefers-reduced-motion: reduce) {
+      .row { animation: none; opacity: 1; transform: none; }
+    }
+  </style>
+<rect class="bg" x=".5" y=".5" width="489" height="328" rx="10"/>
+<g class="row" style="animation-delay:0.0s"><text class="t" x="22" y="36">bryan@github</text><text class="d" x="118" y="36">~ neofetch</text></g>
+<g class="row" style="animation-delay:0.06s"><line x1="22" y1="48" x2="468" y2="48" stroke="#30363d" stroke-width="1"/></g>
+<g class="row" style="animation-delay:0.12s"><text class="k" x="22" y="70">Now</text><text class="v" x="104" y="70">CS @ San Jose State University</text></g>
+<g class="row" style="animation-delay:0.19s"><text class="k" x="22" y="94">Seeking</text><text class="v" x="104" y="94">New-grad / junior SWE</text></g>
+<g class="row" style="animation-delay:0.26s"><text class="v" x="104" y="113">Java backend · full-stack · dev tooling</text></g>
+<g class="row" style="animation-delay:0.33s"><text class="k" x="22" y="137">Stack</text><text class="v" x="104" y="137">Java 21 · Spring Boot · JavaFX</text></g>
+<g class="row" style="animation-delay:0.4s"><text class="v" x="104" y="156">React 19 · TypeScript · Python</text></g>
+<g class="row" style="animation-delay:0.47s"><text class="k" x="22" y="180">Ships</text><text class="v" x="104" y="180">CreatorFlow · second-brain-tools</text></g>
+<g class="row" style="animation-delay:0.54s"><text class="v" x="104" y="199">signal-path</text></g>
+<g class="row" style="animation-delay:0.61s"><text class="k" x="22" y="223">Habits</text><text class="v" x="104" y="223">tests · CI on every push</text></g>
+<g class="row" style="animation-delay:0.68s"><text class="v" x="104" y="242">honest error handling</text></g>
+<g class="row" style="animation-delay:0.75s"><text class="k" x="22" y="266">Where</text><text class="v" x="104" y="266">Bay Area, CA — onsite or remote</text></g>
+<g class="row" style="animation-delay:0.87s"><rect x="22" y="292" width="16" height="10" rx="2" fill="#161b22"/><rect x="42" y="292" width="16" height="10" rx="2" fill="#0e4429"/><rect x="62" y="292" width="16" height="10" rx="2" fill="#006d32"/><rect x="82" y="292" width="16" height="10" rx="2" fill="#26a641"/><rect x="102" y="292" width="16" height="10" rx="2" fill="#39d353"/><rect x="122" y="292" width="16" height="10" rx="2" fill="#58a6ff"/><rect x="142" y="292" width="16" height="10" rx="2" fill="#a371f7"/><rect x="162" y="292" width="16" height="10" rx="2" fill="#c9d1d9"/></g>
+</svg>

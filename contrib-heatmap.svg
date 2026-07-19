@@ -1,0 +1,410 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="211" viewBox="0 0 860 211" role="img" aria-label="GitHub contribution heatmap">
+<style>
+    .bg   { fill: #0d1117; stroke: #21262d; }
+    text  { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .lbl  { fill: #8b949e; font-size: 10px; }
+    .foot { fill: #8b949e; font-size: 11px; }
+    .hi   { fill: #39d353; font-size: 11px; font-weight: 600; }
+    .day  { opacity: 0; animation: reveal .45s ease-out forwards; }
+    .fade { opacity: 0; animation: fade .6s ease-out forwards; }
+    @keyframes reveal {
+      from { opacity: 0; transform: translateY(-5px) scale(.82); }
+      to   { opacity: 1; transform: translateY(0)     scale(1);  }
+    }
+    @keyframes fade { from { opacity: 0 } to { opacity: 1 } }
+    @media (prefers-reduced-motion: reduce) {
+      .day, .fade { animation: none; opacity: 1; transform: none; }
+    }
+  </style>
+<rect class="bg" x=".5" y=".5" width="859" height="210" rx="10"/>
+<text class="lbl fade" x="77" y="36" style="animation-delay:0.0s">Jul</text>
+<text class="lbl fade" x="161" y="36" style="animation-delay:0.108s">Sep</text>
+<text class="lbl fade" x="217" y="36" style="animation-delay:0.18s">Oct</text>
+<text class="lbl fade" x="273" y="36" style="animation-delay:0.252s">Nov</text>
+<text class="lbl fade" x="343" y="36" style="animation-delay:0.342s">Dec</text>
+<text class="lbl fade" x="399" y="36" style="animation-delay:0.414s">Jan</text>
+<text class="lbl fade" x="469" y="36" style="animation-delay:0.504s">Feb</text>
+<text class="lbl fade" x="525" y="36" style="animation-delay:0.576s">Mar</text>
+<text class="lbl fade" x="581" y="36" style="animation-delay:0.648s">Apr</text>
+<text class="lbl fade" x="637" y="36" style="animation-delay:0.72s">May</text>
+<text class="lbl fade" x="707" y="36" style="animation-delay:0.81s">Jun</text>
+<text class="lbl fade" x="763" y="36" style="animation-delay:0.882s">Jul</text>
+<text class="lbl fade" x="69" y="69" text-anchor="end" style="animation-delay:.1s">Mon</text>
+<text class="lbl fade" x="69" y="97" text-anchor="end" style="animation-delay:.1s">Wed</text>
+<text class="lbl fade" x="69" y="125" text-anchor="end" style="animation-delay:.1s">Fri</text>
+<rect class="day" x="77" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.0s;transform-origin:82.5px 51.5px"><title>0 contributions on 2025-07-20</title></rect>
+<rect class="day" x="77" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.018s;transform-origin:82.5px 65.5px"><title>0 contributions on 2025-07-21</title></rect>
+<rect class="day" x="77" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.036s;transform-origin:82.5px 79.5px"><title>0 contributions on 2025-07-22</title></rect>
+<rect class="day" x="77" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.054s;transform-origin:82.5px 93.5px"><title>0 contributions on 2025-07-23</title></rect>
+<rect class="day" x="77" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.072s;transform-origin:82.5px 107.5px"><title>0 contributions on 2025-07-24</title></rect>
+<rect class="day" x="77" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.09s;transform-origin:82.5px 121.5px"><title>0 contributions on 2025-07-25</title></rect>
+<rect class="day" x="77" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.108s;transform-origin:82.5px 135.5px"><title>0 contributions on 2025-07-26</title></rect>
+<rect class="day" x="91" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.018s;transform-origin:96.5px 51.5px"><title>0 contributions on 2025-07-27</title></rect>
+<rect class="day" x="91" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.036s;transform-origin:96.5px 65.5px"><title>0 contributions on 2025-07-28</title></rect>
+<rect class="day" x="91" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.054s;transform-origin:96.5px 79.5px"><title>0 contributions on 2025-07-29</title></rect>
+<rect class="day" x="91" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.072s;transform-origin:96.5px 93.5px"><title>0 contributions on 2025-07-30</title></rect>
+<rect class="day" x="91" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.09s;transform-origin:96.5px 107.5px"><title>0 contributions on 2025-07-31</title></rect>
+<rect class="day" x="91" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.108s;transform-origin:96.5px 121.5px"><title>0 contributions on 2025-08-01</title></rect>
+<rect class="day" x="91" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.126s;transform-origin:96.5px 135.5px"><title>0 contributions on 2025-08-02</title></rect>
+<rect class="day" x="105" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.036s;transform-origin:110.5px 51.5px"><title>0 contributions on 2025-08-03</title></rect>
+<rect class="day" x="105" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.054s;transform-origin:110.5px 65.5px"><title>0 contributions on 2025-08-04</title></rect>
+<rect class="day" x="105" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.072s;transform-origin:110.5px 79.5px"><title>0 contributions on 2025-08-05</title></rect>
+<rect class="day" x="105" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.09s;transform-origin:110.5px 93.5px"><title>0 contributions on 2025-08-06</title></rect>
+<rect class="day" x="105" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.108s;transform-origin:110.5px 107.5px"><title>0 contributions on 2025-08-07</title></rect>
+<rect class="day" x="105" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.126s;transform-origin:110.5px 121.5px"><title>0 contributions on 2025-08-08</title></rect>
+<rect class="day" x="105" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.144s;transform-origin:110.5px 135.5px"><title>0 contributions on 2025-08-09</title></rect>
+<rect class="day" x="119" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.054s;transform-origin:124.5px 51.5px"><title>0 contributions on 2025-08-10</title></rect>
+<rect class="day" x="119" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.072s;transform-origin:124.5px 65.5px"><title>0 contributions on 2025-08-11</title></rect>
+<rect class="day" x="119" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.09s;transform-origin:124.5px 79.5px"><title>0 contributions on 2025-08-12</title></rect>
+<rect class="day" x="119" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.108s;transform-origin:124.5px 93.5px"><title>0 contributions on 2025-08-13</title></rect>
+<rect class="day" x="119" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.126s;transform-origin:124.5px 107.5px"><title>0 contributions on 2025-08-14</title></rect>
+<rect class="day" x="119" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.144s;transform-origin:124.5px 121.5px"><title>0 contributions on 2025-08-15</title></rect>
+<rect class="day" x="119" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.162s;transform-origin:124.5px 135.5px"><title>0 contributions on 2025-08-16</title></rect>
+<rect class="day" x="133" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.072s;transform-origin:138.5px 51.5px"><title>0 contributions on 2025-08-17</title></rect>
+<rect class="day" x="133" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.09s;transform-origin:138.5px 65.5px"><title>0 contributions on 2025-08-18</title></rect>
+<rect class="day" x="133" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.108s;transform-origin:138.5px 79.5px"><title>0 contributions on 2025-08-19</title></rect>
+<rect class="day" x="133" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.126s;transform-origin:138.5px 93.5px"><title>0 contributions on 2025-08-20</title></rect>
+<rect class="day" x="133" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.144s;transform-origin:138.5px 107.5px"><title>0 contributions on 2025-08-21</title></rect>
+<rect class="day" x="133" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.162s;transform-origin:138.5px 121.5px"><title>0 contributions on 2025-08-22</title></rect>
+<rect class="day" x="133" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.18s;transform-origin:138.5px 135.5px"><title>0 contributions on 2025-08-23</title></rect>
+<rect class="day" x="147" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.09s;transform-origin:152.5px 51.5px"><title>0 contributions on 2025-08-24</title></rect>
+<rect class="day" x="147" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.108s;transform-origin:152.5px 65.5px"><title>0 contributions on 2025-08-25</title></rect>
+<rect class="day" x="147" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.126s;transform-origin:152.5px 79.5px"><title>0 contributions on 2025-08-26</title></rect>
+<rect class="day" x="147" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.144s;transform-origin:152.5px 93.5px"><title>0 contributions on 2025-08-27</title></rect>
+<rect class="day" x="147" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.162s;transform-origin:152.5px 107.5px"><title>0 contributions on 2025-08-28</title></rect>
+<rect class="day" x="147" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.18s;transform-origin:152.5px 121.5px"><title>0 contributions on 2025-08-29</title></rect>
+<rect class="day" x="147" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.198s;transform-origin:152.5px 135.5px"><title>0 contributions on 2025-08-30</title></rect>
+<rect class="day" x="161" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.108s;transform-origin:166.5px 51.5px"><title>0 contributions on 2025-08-31</title></rect>
+<rect class="day" x="161" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.126s;transform-origin:166.5px 65.5px"><title>0 contributions on 2025-09-01</title></rect>
+<rect class="day" x="161" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.144s;transform-origin:166.5px 79.5px"><title>0 contributions on 2025-09-02</title></rect>
+<rect class="day" x="161" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.162s;transform-origin:166.5px 93.5px"><title>0 contributions on 2025-09-03</title></rect>
+<rect class="day" x="161" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.18s;transform-origin:166.5px 107.5px"><title>0 contributions on 2025-09-04</title></rect>
+<rect class="day" x="161" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.198s;transform-origin:166.5px 121.5px"><title>0 contributions on 2025-09-05</title></rect>
+<rect class="day" x="161" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.216s;transform-origin:166.5px 135.5px"><title>0 contributions on 2025-09-06</title></rect>
+<rect class="day" x="175" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.126s;transform-origin:180.5px 51.5px"><title>0 contributions on 2025-09-07</title></rect>
+<rect class="day" x="175" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.144s;transform-origin:180.5px 65.5px"><title>0 contributions on 2025-09-08</title></rect>
+<rect class="day" x="175" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.162s;transform-origin:180.5px 79.5px"><title>0 contributions on 2025-09-09</title></rect>
+<rect class="day" x="175" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.18s;transform-origin:180.5px 93.5px"><title>0 contributions on 2025-09-10</title></rect>
+<rect class="day" x="175" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.198s;transform-origin:180.5px 107.5px"><title>0 contributions on 2025-09-11</title></rect>
+<rect class="day" x="175" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.216s;transform-origin:180.5px 121.5px"><title>0 contributions on 2025-09-12</title></rect>
+<rect class="day" x="175" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.234s;transform-origin:180.5px 135.5px"><title>0 contributions on 2025-09-13</title></rect>
+<rect class="day" x="189" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.144s;transform-origin:194.5px 51.5px"><title>0 contributions on 2025-09-14</title></rect>
+<rect class="day" x="189" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.162s;transform-origin:194.5px 65.5px"><title>0 contributions on 2025-09-15</title></rect>
+<rect class="day" x="189" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.18s;transform-origin:194.5px 79.5px"><title>0 contributions on 2025-09-16</title></rect>
+<rect class="day" x="189" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.198s;transform-origin:194.5px 93.5px"><title>0 contributions on 2025-09-17</title></rect>
+<rect class="day" x="189" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.216s;transform-origin:194.5px 107.5px"><title>0 contributions on 2025-09-18</title></rect>
+<rect class="day" x="189" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.234s;transform-origin:194.5px 121.5px"><title>0 contributions on 2025-09-19</title></rect>
+<rect class="day" x="189" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.252s;transform-origin:194.5px 135.5px"><title>0 contributions on 2025-09-20</title></rect>
+<rect class="day" x="203" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.162s;transform-origin:208.5px 51.5px"><title>0 contributions on 2025-09-21</title></rect>
+<rect class="day" x="203" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.18s;transform-origin:208.5px 65.5px"><title>0 contributions on 2025-09-22</title></rect>
+<rect class="day" x="203" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.198s;transform-origin:208.5px 79.5px"><title>0 contributions on 2025-09-23</title></rect>
+<rect class="day" x="203" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.216s;transform-origin:208.5px 93.5px"><title>0 contributions on 2025-09-24</title></rect>
+<rect class="day" x="203" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.234s;transform-origin:208.5px 107.5px"><title>0 contributions on 2025-09-25</title></rect>
+<rect class="day" x="203" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.252s;transform-origin:208.5px 121.5px"><title>0 contributions on 2025-09-26</title></rect>
+<rect class="day" x="203" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.27s;transform-origin:208.5px 135.5px"><title>0 contributions on 2025-09-27</title></rect>
+<rect class="day" x="217" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.18s;transform-origin:222.5px 51.5px"><title>0 contributions on 2025-09-28</title></rect>
+<rect class="day" x="217" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.198s;transform-origin:222.5px 65.5px"><title>0 contributions on 2025-09-29</title></rect>
+<rect class="day" x="217" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.216s;transform-origin:222.5px 79.5px"><title>0 contributions on 2025-09-30</title></rect>
+<rect class="day" x="217" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.234s;transform-origin:222.5px 93.5px"><title>0 contributions on 2025-10-01</title></rect>
+<rect class="day" x="217" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.252s;transform-origin:222.5px 107.5px"><title>0 contributions on 2025-10-02</title></rect>
+<rect class="day" x="217" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.27s;transform-origin:222.5px 121.5px"><title>0 contributions on 2025-10-03</title></rect>
+<rect class="day" x="217" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.288s;transform-origin:222.5px 135.5px"><title>0 contributions on 2025-10-04</title></rect>
+<rect class="day" x="231" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.198s;transform-origin:236.5px 51.5px"><title>0 contributions on 2025-10-05</title></rect>
+<rect class="day" x="231" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.216s;transform-origin:236.5px 65.5px"><title>0 contributions on 2025-10-06</title></rect>
+<rect class="day" x="231" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.234s;transform-origin:236.5px 79.5px"><title>0 contributions on 2025-10-07</title></rect>
+<rect class="day" x="231" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.252s;transform-origin:236.5px 93.5px"><title>0 contributions on 2025-10-08</title></rect>
+<rect class="day" x="231" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.27s;transform-origin:236.5px 107.5px"><title>0 contributions on 2025-10-09</title></rect>
+<rect class="day" x="231" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.288s;transform-origin:236.5px 121.5px"><title>0 contributions on 2025-10-10</title></rect>
+<rect class="day" x="231" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.306s;transform-origin:236.5px 135.5px"><title>0 contributions on 2025-10-11</title></rect>
+<rect class="day" x="245" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.216s;transform-origin:250.5px 51.5px"><title>0 contributions on 2025-10-12</title></rect>
+<rect class="day" x="245" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.234s;transform-origin:250.5px 65.5px"><title>0 contributions on 2025-10-13</title></rect>
+<rect class="day" x="245" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.252s;transform-origin:250.5px 79.5px"><title>0 contributions on 2025-10-14</title></rect>
+<rect class="day" x="245" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.27s;transform-origin:250.5px 93.5px"><title>0 contributions on 2025-10-15</title></rect>
+<rect class="day" x="245" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.288s;transform-origin:250.5px 107.5px"><title>0 contributions on 2025-10-16</title></rect>
+<rect class="day" x="245" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.306s;transform-origin:250.5px 121.5px"><title>0 contributions on 2025-10-17</title></rect>
+<rect class="day" x="245" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.324s;transform-origin:250.5px 135.5px"><title>0 contributions on 2025-10-18</title></rect>
+<rect class="day" x="259" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.234s;transform-origin:264.5px 51.5px"><title>0 contributions on 2025-10-19</title></rect>
+<rect class="day" x="259" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.252s;transform-origin:264.5px 65.5px"><title>0 contributions on 2025-10-20</title></rect>
+<rect class="day" x="259" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.27s;transform-origin:264.5px 79.5px"><title>0 contributions on 2025-10-21</title></rect>
+<rect class="day" x="259" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.288s;transform-origin:264.5px 93.5px"><title>0 contributions on 2025-10-22</title></rect>
+<rect class="day" x="259" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.306s;transform-origin:264.5px 107.5px"><title>0 contributions on 2025-10-23</title></rect>
+<rect class="day" x="259" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.324s;transform-origin:264.5px 121.5px"><title>0 contributions on 2025-10-24</title></rect>
+<rect class="day" x="259" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.342s;transform-origin:264.5px 135.5px"><title>0 contributions on 2025-10-25</title></rect>
+<rect class="day" x="273" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.252s;transform-origin:278.5px 51.5px"><title>0 contributions on 2025-10-26</title></rect>
+<rect class="day" x="273" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.27s;transform-origin:278.5px 65.5px"><title>0 contributions on 2025-10-27</title></rect>
+<rect class="day" x="273" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.288s;transform-origin:278.5px 79.5px"><title>0 contributions on 2025-10-28</title></rect>
+<rect class="day" x="273" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.306s;transform-origin:278.5px 93.5px"><title>0 contributions on 2025-10-29</title></rect>
+<rect class="day" x="273" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.324s;transform-origin:278.5px 107.5px"><title>0 contributions on 2025-10-30</title></rect>
+<rect class="day" x="273" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.342s;transform-origin:278.5px 121.5px"><title>0 contributions on 2025-10-31</title></rect>
+<rect class="day" x="273" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.36s;transform-origin:278.5px 135.5px"><title>0 contributions on 2025-11-01</title></rect>
+<rect class="day" x="287" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.27s;transform-origin:292.5px 51.5px"><title>0 contributions on 2025-11-02</title></rect>
+<rect class="day" x="287" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.288s;transform-origin:292.5px 65.5px"><title>0 contributions on 2025-11-03</title></rect>
+<rect class="day" x="287" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.306s;transform-origin:292.5px 79.5px"><title>0 contributions on 2025-11-04</title></rect>
+<rect class="day" x="287" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.324s;transform-origin:292.5px 93.5px"><title>0 contributions on 2025-11-05</title></rect>
+<rect class="day" x="287" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.342s;transform-origin:292.5px 107.5px"><title>0 contributions on 2025-11-06</title></rect>
+<rect class="day" x="287" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.36s;transform-origin:292.5px 121.5px"><title>0 contributions on 2025-11-07</title></rect>
+<rect class="day" x="287" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.378s;transform-origin:292.5px 135.5px"><title>0 contributions on 2025-11-08</title></rect>
+<rect class="day" x="301" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.288s;transform-origin:306.5px 51.5px"><title>0 contributions on 2025-11-09</title></rect>
+<rect class="day" x="301" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.306s;transform-origin:306.5px 65.5px"><title>0 contributions on 2025-11-10</title></rect>
+<rect class="day" x="301" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.324s;transform-origin:306.5px 79.5px"><title>0 contributions on 2025-11-11</title></rect>
+<rect class="day" x="301" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.342s;transform-origin:306.5px 93.5px"><title>0 contributions on 2025-11-12</title></rect>
+<rect class="day" x="301" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.36s;transform-origin:306.5px 107.5px"><title>0 contributions on 2025-11-13</title></rect>
+<rect class="day" x="301" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.378s;transform-origin:306.5px 121.5px"><title>0 contributions on 2025-11-14</title></rect>
+<rect class="day" x="301" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.396s;transform-origin:306.5px 135.5px"><title>0 contributions on 2025-11-15</title></rect>
+<rect class="day" x="315" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.306s;transform-origin:320.5px 51.5px"><title>0 contributions on 2025-11-16</title></rect>
+<rect class="day" x="315" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.324s;transform-origin:320.5px 65.5px"><title>0 contributions on 2025-11-17</title></rect>
+<rect class="day" x="315" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.342s;transform-origin:320.5px 79.5px"><title>0 contributions on 2025-11-18</title></rect>
+<rect class="day" x="315" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.36s;transform-origin:320.5px 93.5px"><title>0 contributions on 2025-11-19</title></rect>
+<rect class="day" x="315" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.378s;transform-origin:320.5px 107.5px"><title>0 contributions on 2025-11-20</title></rect>
+<rect class="day" x="315" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.396s;transform-origin:320.5px 121.5px"><title>0 contributions on 2025-11-21</title></rect>
+<rect class="day" x="315" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.414s;transform-origin:320.5px 135.5px"><title>0 contributions on 2025-11-22</title></rect>
+<rect class="day" x="329" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.324s;transform-origin:334.5px 51.5px"><title>0 contributions on 2025-11-23</title></rect>
+<rect class="day" x="329" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.342s;transform-origin:334.5px 65.5px"><title>0 contributions on 2025-11-24</title></rect>
+<rect class="day" x="329" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.36s;transform-origin:334.5px 79.5px"><title>0 contributions on 2025-11-25</title></rect>
+<rect class="day" x="329" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.378s;transform-origin:334.5px 93.5px"><title>0 contributions on 2025-11-26</title></rect>
+<rect class="day" x="329" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.396s;transform-origin:334.5px 107.5px"><title>0 contributions on 2025-11-27</title></rect>
+<rect class="day" x="329" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.414s;transform-origin:334.5px 121.5px"><title>0 contributions on 2025-11-28</title></rect>
+<rect class="day" x="329" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.432s;transform-origin:334.5px 135.5px"><title>0 contributions on 2025-11-29</title></rect>
+<rect class="day" x="343" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.342s;transform-origin:348.5px 51.5px"><title>0 contributions on 2025-11-30</title></rect>
+<rect class="day" x="343" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.36s;transform-origin:348.5px 65.5px"><title>0 contributions on 2025-12-01</title></rect>
+<rect class="day" x="343" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.378s;transform-origin:348.5px 79.5px"><title>0 contributions on 2025-12-02</title></rect>
+<rect class="day" x="343" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.396s;transform-origin:348.5px 93.5px"><title>0 contributions on 2025-12-03</title></rect>
+<rect class="day" x="343" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.414s;transform-origin:348.5px 107.5px"><title>0 contributions on 2025-12-04</title></rect>
+<rect class="day" x="343" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.432s;transform-origin:348.5px 121.5px"><title>0 contributions on 2025-12-05</title></rect>
+<rect class="day" x="343" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.45s;transform-origin:348.5px 135.5px"><title>0 contributions on 2025-12-06</title></rect>
+<rect class="day" x="357" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.36s;transform-origin:362.5px 51.5px"><title>0 contributions on 2025-12-07</title></rect>
+<rect class="day" x="357" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.378s;transform-origin:362.5px 65.5px"><title>0 contributions on 2025-12-08</title></rect>
+<rect class="day" x="357" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.396s;transform-origin:362.5px 79.5px"><title>0 contributions on 2025-12-09</title></rect>
+<rect class="day" x="357" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.414s;transform-origin:362.5px 93.5px"><title>0 contributions on 2025-12-10</title></rect>
+<rect class="day" x="357" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.432s;transform-origin:362.5px 107.5px"><title>0 contributions on 2025-12-11</title></rect>
+<rect class="day" x="357" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.45s;transform-origin:362.5px 121.5px"><title>0 contributions on 2025-12-12</title></rect>
+<rect class="day" x="357" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.468s;transform-origin:362.5px 135.5px"><title>0 contributions on 2025-12-13</title></rect>
+<rect class="day" x="371" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.378s;transform-origin:376.5px 51.5px"><title>0 contributions on 2025-12-14</title></rect>
+<rect class="day" x="371" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.396s;transform-origin:376.5px 65.5px"><title>0 contributions on 2025-12-15</title></rect>
+<rect class="day" x="371" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.414s;transform-origin:376.5px 79.5px"><title>0 contributions on 2025-12-16</title></rect>
+<rect class="day" x="371" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.432s;transform-origin:376.5px 93.5px"><title>0 contributions on 2025-12-17</title></rect>
+<rect class="day" x="371" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.45s;transform-origin:376.5px 107.5px"><title>0 contributions on 2025-12-18</title></rect>
+<rect class="day" x="371" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.468s;transform-origin:376.5px 121.5px"><title>0 contributions on 2025-12-19</title></rect>
+<rect class="day" x="371" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.486s;transform-origin:376.5px 135.5px"><title>0 contributions on 2025-12-20</title></rect>
+<rect class="day" x="385" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.396s;transform-origin:390.5px 51.5px"><title>0 contributions on 2025-12-21</title></rect>
+<rect class="day" x="385" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.414s;transform-origin:390.5px 65.5px"><title>0 contributions on 2025-12-22</title></rect>
+<rect class="day" x="385" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.432s;transform-origin:390.5px 79.5px"><title>0 contributions on 2025-12-23</title></rect>
+<rect class="day" x="385" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.45s;transform-origin:390.5px 93.5px"><title>0 contributions on 2025-12-24</title></rect>
+<rect class="day" x="385" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.468s;transform-origin:390.5px 107.5px"><title>0 contributions on 2025-12-25</title></rect>
+<rect class="day" x="385" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.486s;transform-origin:390.5px 121.5px"><title>0 contributions on 2025-12-26</title></rect>
+<rect class="day" x="385" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.504s;transform-origin:390.5px 135.5px"><title>0 contributions on 2025-12-27</title></rect>
+<rect class="day" x="399" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.414s;transform-origin:404.5px 51.5px"><title>0 contributions on 2025-12-28</title></rect>
+<rect class="day" x="399" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.432s;transform-origin:404.5px 65.5px"><title>0 contributions on 2025-12-29</title></rect>
+<rect class="day" x="399" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.45s;transform-origin:404.5px 79.5px"><title>0 contributions on 2025-12-30</title></rect>
+<rect class="day" x="399" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.468s;transform-origin:404.5px 93.5px"><title>0 contributions on 2025-12-31</title></rect>
+<rect class="day" x="399" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.486s;transform-origin:404.5px 107.5px"><title>0 contributions on 2026-01-01</title></rect>
+<rect class="day" x="399" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.504s;transform-origin:404.5px 121.5px"><title>0 contributions on 2026-01-02</title></rect>
+<rect class="day" x="399" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.522s;transform-origin:404.5px 135.5px"><title>0 contributions on 2026-01-03</title></rect>
+<rect class="day" x="413" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.432s;transform-origin:418.5px 51.5px"><title>0 contributions on 2026-01-04</title></rect>
+<rect class="day" x="413" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.45s;transform-origin:418.5px 65.5px"><title>0 contributions on 2026-01-05</title></rect>
+<rect class="day" x="413" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.468s;transform-origin:418.5px 79.5px"><title>0 contributions on 2026-01-06</title></rect>
+<rect class="day" x="413" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.486s;transform-origin:418.5px 93.5px"><title>0 contributions on 2026-01-07</title></rect>
+<rect class="day" x="413" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.504s;transform-origin:418.5px 107.5px"><title>0 contributions on 2026-01-08</title></rect>
+<rect class="day" x="413" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.522s;transform-origin:418.5px 121.5px"><title>0 contributions on 2026-01-09</title></rect>
+<rect class="day" x="413" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.54s;transform-origin:418.5px 135.5px"><title>0 contributions on 2026-01-10</title></rect>
+<rect class="day" x="427" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.45s;transform-origin:432.5px 51.5px"><title>0 contributions on 2026-01-11</title></rect>
+<rect class="day" x="427" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.468s;transform-origin:432.5px 65.5px"><title>0 contributions on 2026-01-12</title></rect>
+<rect class="day" x="427" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.486s;transform-origin:432.5px 79.5px"><title>0 contributions on 2026-01-13</title></rect>
+<rect class="day" x="427" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.504s;transform-origin:432.5px 93.5px"><title>0 contributions on 2026-01-14</title></rect>
+<rect class="day" x="427" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.522s;transform-origin:432.5px 107.5px"><title>0 contributions on 2026-01-15</title></rect>
+<rect class="day" x="427" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.54s;transform-origin:432.5px 121.5px"><title>0 contributions on 2026-01-16</title></rect>
+<rect class="day" x="427" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.558s;transform-origin:432.5px 135.5px"><title>0 contributions on 2026-01-17</title></rect>
+<rect class="day" x="441" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.468s;transform-origin:446.5px 51.5px"><title>0 contributions on 2026-01-18</title></rect>
+<rect class="day" x="441" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.486s;transform-origin:446.5px 65.5px"><title>0 contributions on 2026-01-19</title></rect>
+<rect class="day" x="441" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.504s;transform-origin:446.5px 79.5px"><title>0 contributions on 2026-01-20</title></rect>
+<rect class="day" x="441" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.522s;transform-origin:446.5px 93.5px"><title>0 contributions on 2026-01-21</title></rect>
+<rect class="day" x="441" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.54s;transform-origin:446.5px 107.5px"><title>0 contributions on 2026-01-22</title></rect>
+<rect class="day" x="441" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.558s;transform-origin:446.5px 121.5px"><title>0 contributions on 2026-01-23</title></rect>
+<rect class="day" x="441" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.576s;transform-origin:446.5px 135.5px"><title>0 contributions on 2026-01-24</title></rect>
+<rect class="day" x="455" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.486s;transform-origin:460.5px 51.5px"><title>0 contributions on 2026-01-25</title></rect>
+<rect class="day" x="455" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.504s;transform-origin:460.5px 65.5px"><title>0 contributions on 2026-01-26</title></rect>
+<rect class="day" x="455" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.522s;transform-origin:460.5px 79.5px"><title>0 contributions on 2026-01-27</title></rect>
+<rect class="day" x="455" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.54s;transform-origin:460.5px 93.5px"><title>0 contributions on 2026-01-28</title></rect>
+<rect class="day" x="455" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.558s;transform-origin:460.5px 107.5px"><title>0 contributions on 2026-01-29</title></rect>
+<rect class="day" x="455" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.576s;transform-origin:460.5px 121.5px"><title>0 contributions on 2026-01-30</title></rect>
+<rect class="day" x="455" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.594s;transform-origin:460.5px 135.5px"><title>0 contributions on 2026-01-31</title></rect>
+<rect class="day" x="469" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.504s;transform-origin:474.5px 51.5px"><title>0 contributions on 2026-02-01</title></rect>
+<rect class="day" x="469" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.522s;transform-origin:474.5px 65.5px"><title>0 contributions on 2026-02-02</title></rect>
+<rect class="day" x="469" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.54s;transform-origin:474.5px 79.5px"><title>0 contributions on 2026-02-03</title></rect>
+<rect class="day" x="469" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.558s;transform-origin:474.5px 93.5px"><title>0 contributions on 2026-02-04</title></rect>
+<rect class="day" x="469" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.576s;transform-origin:474.5px 107.5px"><title>0 contributions on 2026-02-05</title></rect>
+<rect class="day" x="469" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.594s;transform-origin:474.5px 121.5px"><title>0 contributions on 2026-02-06</title></rect>
+<rect class="day" x="469" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.612s;transform-origin:474.5px 135.5px"><title>0 contributions on 2026-02-07</title></rect>
+<rect class="day" x="483" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.522s;transform-origin:488.5px 51.5px"><title>0 contributions on 2026-02-08</title></rect>
+<rect class="day" x="483" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.54s;transform-origin:488.5px 65.5px"><title>0 contributions on 2026-02-09</title></rect>
+<rect class="day" x="483" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.558s;transform-origin:488.5px 79.5px"><title>0 contributions on 2026-02-10</title></rect>
+<rect class="day" x="483" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.576s;transform-origin:488.5px 93.5px"><title>0 contributions on 2026-02-11</title></rect>
+<rect class="day" x="483" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.594s;transform-origin:488.5px 107.5px"><title>0 contributions on 2026-02-12</title></rect>
+<rect class="day" x="483" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.612s;transform-origin:488.5px 121.5px"><title>0 contributions on 2026-02-13</title></rect>
+<rect class="day" x="483" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.63s;transform-origin:488.5px 135.5px"><title>0 contributions on 2026-02-14</title></rect>
+<rect class="day" x="497" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.54s;transform-origin:502.5px 51.5px"><title>0 contributions on 2026-02-15</title></rect>
+<rect class="day" x="497" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.558s;transform-origin:502.5px 65.5px"><title>0 contributions on 2026-02-16</title></rect>
+<rect class="day" x="497" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.576s;transform-origin:502.5px 79.5px"><title>0 contributions on 2026-02-17</title></rect>
+<rect class="day" x="497" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.594s;transform-origin:502.5px 93.5px"><title>0 contributions on 2026-02-18</title></rect>
+<rect class="day" x="497" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.612s;transform-origin:502.5px 107.5px"><title>0 contributions on 2026-02-19</title></rect>
+<rect class="day" x="497" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.63s;transform-origin:502.5px 121.5px"><title>0 contributions on 2026-02-20</title></rect>
+<rect class="day" x="497" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.648s;transform-origin:502.5px 135.5px"><title>0 contributions on 2026-02-21</title></rect>
+<rect class="day" x="511" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.558s;transform-origin:516.5px 51.5px"><title>0 contributions on 2026-02-22</title></rect>
+<rect class="day" x="511" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.576s;transform-origin:516.5px 65.5px"><title>0 contributions on 2026-02-23</title></rect>
+<rect class="day" x="511" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.594s;transform-origin:516.5px 79.5px"><title>0 contributions on 2026-02-24</title></rect>
+<rect class="day" x="511" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.612s;transform-origin:516.5px 93.5px"><title>0 contributions on 2026-02-25</title></rect>
+<rect class="day" x="511" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.63s;transform-origin:516.5px 107.5px"><title>0 contributions on 2026-02-26</title></rect>
+<rect class="day" x="511" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.648s;transform-origin:516.5px 121.5px"><title>0 contributions on 2026-02-27</title></rect>
+<rect class="day" x="511" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.666s;transform-origin:516.5px 135.5px"><title>0 contributions on 2026-02-28</title></rect>
+<rect class="day" x="525" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.576s;transform-origin:530.5px 51.5px"><title>0 contributions on 2026-03-01</title></rect>
+<rect class="day" x="525" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.594s;transform-origin:530.5px 65.5px"><title>0 contributions on 2026-03-02</title></rect>
+<rect class="day" x="525" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.612s;transform-origin:530.5px 79.5px"><title>0 contributions on 2026-03-03</title></rect>
+<rect class="day" x="525" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.63s;transform-origin:530.5px 93.5px"><title>0 contributions on 2026-03-04</title></rect>
+<rect class="day" x="525" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.648s;transform-origin:530.5px 107.5px"><title>0 contributions on 2026-03-05</title></rect>
+<rect class="day" x="525" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.666s;transform-origin:530.5px 121.5px"><title>0 contributions on 2026-03-06</title></rect>
+<rect class="day" x="525" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.684s;transform-origin:530.5px 135.5px"><title>0 contributions on 2026-03-07</title></rect>
+<rect class="day" x="539" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.594s;transform-origin:544.5px 51.5px"><title>0 contributions on 2026-03-08</title></rect>
+<rect class="day" x="539" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.612s;transform-origin:544.5px 65.5px"><title>0 contributions on 2026-03-09</title></rect>
+<rect class="day" x="539" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.63s;transform-origin:544.5px 79.5px"><title>0 contributions on 2026-03-10</title></rect>
+<rect class="day" x="539" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.648s;transform-origin:544.5px 93.5px"><title>0 contributions on 2026-03-11</title></rect>
+<rect class="day" x="539" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.666s;transform-origin:544.5px 107.5px"><title>0 contributions on 2026-03-12</title></rect>
+<rect class="day" x="539" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.684s;transform-origin:544.5px 121.5px"><title>0 contributions on 2026-03-13</title></rect>
+<rect class="day" x="539" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.702s;transform-origin:544.5px 135.5px"><title>0 contributions on 2026-03-14</title></rect>
+<rect class="day" x="553" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.612s;transform-origin:558.5px 51.5px"><title>0 contributions on 2026-03-15</title></rect>
+<rect class="day" x="553" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.63s;transform-origin:558.5px 65.5px"><title>0 contributions on 2026-03-16</title></rect>
+<rect class="day" x="553" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.648s;transform-origin:558.5px 79.5px"><title>0 contributions on 2026-03-17</title></rect>
+<rect class="day" x="553" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.666s;transform-origin:558.5px 93.5px"><title>0 contributions on 2026-03-18</title></rect>
+<rect class="day" x="553" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.684s;transform-origin:558.5px 107.5px"><title>0 contributions on 2026-03-19</title></rect>
+<rect class="day" x="553" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.702s;transform-origin:558.5px 121.5px"><title>0 contributions on 2026-03-20</title></rect>
+<rect class="day" x="553" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.72s;transform-origin:558.5px 135.5px"><title>0 contributions on 2026-03-21</title></rect>
+<rect class="day" x="567" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.63s;transform-origin:572.5px 51.5px"><title>0 contributions on 2026-03-22</title></rect>
+<rect class="day" x="567" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.648s;transform-origin:572.5px 65.5px"><title>0 contributions on 2026-03-23</title></rect>
+<rect class="day" x="567" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.666s;transform-origin:572.5px 79.5px"><title>0 contributions on 2026-03-24</title></rect>
+<rect class="day" x="567" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.684s;transform-origin:572.5px 93.5px"><title>0 contributions on 2026-03-25</title></rect>
+<rect class="day" x="567" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.702s;transform-origin:572.5px 107.5px"><title>0 contributions on 2026-03-26</title></rect>
+<rect class="day" x="567" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.72s;transform-origin:572.5px 121.5px"><title>0 contributions on 2026-03-27</title></rect>
+<rect class="day" x="567" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.738s;transform-origin:572.5px 135.5px"><title>0 contributions on 2026-03-28</title></rect>
+<rect class="day" x="581" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.648s;transform-origin:586.5px 51.5px"><title>0 contributions on 2026-03-29</title></rect>
+<rect class="day" x="581" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.666s;transform-origin:586.5px 65.5px"><title>0 contributions on 2026-03-30</title></rect>
+<rect class="day" x="581" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.684s;transform-origin:586.5px 79.5px"><title>0 contributions on 2026-03-31</title></rect>
+<rect class="day" x="581" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.702s;transform-origin:586.5px 93.5px"><title>0 contributions on 2026-04-01</title></rect>
+<rect class="day" x="581" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.72s;transform-origin:586.5px 107.5px"><title>0 contributions on 2026-04-02</title></rect>
+<rect class="day" x="581" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.738s;transform-origin:586.5px 121.5px"><title>0 contributions on 2026-04-03</title></rect>
+<rect class="day" x="581" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.756s;transform-origin:586.5px 135.5px"><title>0 contributions on 2026-04-04</title></rect>
+<rect class="day" x="595" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.666s;transform-origin:600.5px 51.5px"><title>0 contributions on 2026-04-05</title></rect>
+<rect class="day" x="595" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.684s;transform-origin:600.5px 65.5px"><title>0 contributions on 2026-04-06</title></rect>
+<rect class="day" x="595" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.702s;transform-origin:600.5px 79.5px"><title>0 contributions on 2026-04-07</title></rect>
+<rect class="day" x="595" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.72s;transform-origin:600.5px 93.5px"><title>0 contributions on 2026-04-08</title></rect>
+<rect class="day" x="595" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.738s;transform-origin:600.5px 107.5px"><title>0 contributions on 2026-04-09</title></rect>
+<rect class="day" x="595" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.756s;transform-origin:600.5px 121.5px"><title>0 contributions on 2026-04-10</title></rect>
+<rect class="day" x="595" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.774s;transform-origin:600.5px 135.5px"><title>0 contributions on 2026-04-11</title></rect>
+<rect class="day" x="609" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.684s;transform-origin:614.5px 51.5px"><title>0 contributions on 2026-04-12</title></rect>
+<rect class="day" x="609" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.702s;transform-origin:614.5px 65.5px"><title>0 contributions on 2026-04-13</title></rect>
+<rect class="day" x="609" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.72s;transform-origin:614.5px 79.5px"><title>0 contributions on 2026-04-14</title></rect>
+<rect class="day" x="609" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.738s;transform-origin:614.5px 93.5px"><title>0 contributions on 2026-04-15</title></rect>
+<rect class="day" x="609" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.756s;transform-origin:614.5px 107.5px"><title>0 contributions on 2026-04-16</title></rect>
+<rect class="day" x="609" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.774s;transform-origin:614.5px 121.5px"><title>0 contributions on 2026-04-17</title></rect>
+<rect class="day" x="609" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.792s;transform-origin:614.5px 135.5px"><title>0 contributions on 2026-04-18</title></rect>
+<rect class="day" x="623" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.702s;transform-origin:628.5px 51.5px"><title>0 contributions on 2026-04-19</title></rect>
+<rect class="day" x="623" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.72s;transform-origin:628.5px 65.5px"><title>0 contributions on 2026-04-20</title></rect>
+<rect class="day" x="623" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.738s;transform-origin:628.5px 79.5px"><title>0 contributions on 2026-04-21</title></rect>
+<rect class="day" x="623" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.756s;transform-origin:628.5px 93.5px"><title>0 contributions on 2026-04-22</title></rect>
+<rect class="day" x="623" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.774s;transform-origin:628.5px 107.5px"><title>0 contributions on 2026-04-23</title></rect>
+<rect class="day" x="623" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.792s;transform-origin:628.5px 121.5px"><title>0 contributions on 2026-04-24</title></rect>
+<rect class="day" x="623" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.81s;transform-origin:628.5px 135.5px"><title>0 contributions on 2026-04-25</title></rect>
+<rect class="day" x="637" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.72s;transform-origin:642.5px 51.5px"><title>0 contributions on 2026-04-26</title></rect>
+<rect class="day" x="637" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.738s;transform-origin:642.5px 65.5px"><title>0 contributions on 2026-04-27</title></rect>
+<rect class="day" x="637" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.756s;transform-origin:642.5px 79.5px"><title>0 contributions on 2026-04-28</title></rect>
+<rect class="day" x="637" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.774s;transform-origin:642.5px 93.5px"><title>0 contributions on 2026-04-29</title></rect>
+<rect class="day" x="637" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.792s;transform-origin:642.5px 107.5px"><title>0 contributions on 2026-04-30</title></rect>
+<rect class="day" x="637" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.81s;transform-origin:642.5px 121.5px"><title>0 contributions on 2026-05-01</title></rect>
+<rect class="day" x="637" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.828s;transform-origin:642.5px 135.5px"><title>0 contributions on 2026-05-02</title></rect>
+<rect class="day" x="651" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.738s;transform-origin:656.5px 51.5px"><title>0 contributions on 2026-05-03</title></rect>
+<rect class="day" x="651" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.756s;transform-origin:656.5px 65.5px"><title>0 contributions on 2026-05-04</title></rect>
+<rect class="day" x="651" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.774s;transform-origin:656.5px 79.5px"><title>0 contributions on 2026-05-05</title></rect>
+<rect class="day" x="651" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.792s;transform-origin:656.5px 93.5px"><title>0 contributions on 2026-05-06</title></rect>
+<rect class="day" x="651" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.81s;transform-origin:656.5px 107.5px"><title>0 contributions on 2026-05-07</title></rect>
+<rect class="day" x="651" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.828s;transform-origin:656.5px 121.5px"><title>0 contributions on 2026-05-08</title></rect>
+<rect class="day" x="651" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.846s;transform-origin:656.5px 135.5px"><title>0 contributions on 2026-05-09</title></rect>
+<rect class="day" x="665" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.756s;transform-origin:670.5px 51.5px"><title>0 contributions on 2026-05-10</title></rect>
+<rect class="day" x="665" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.774s;transform-origin:670.5px 65.5px"><title>0 contributions on 2026-05-11</title></rect>
+<rect class="day" x="665" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.792s;transform-origin:670.5px 79.5px"><title>0 contributions on 2026-05-12</title></rect>
+<rect class="day" x="665" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.81s;transform-origin:670.5px 93.5px"><title>0 contributions on 2026-05-13</title></rect>
+<rect class="day" x="665" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.828s;transform-origin:670.5px 107.5px"><title>0 contributions on 2026-05-14</title></rect>
+<rect class="day" x="665" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.846s;transform-origin:670.5px 121.5px"><title>0 contributions on 2026-05-15</title></rect>
+<rect class="day" x="665" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.864s;transform-origin:670.5px 135.5px"><title>0 contributions on 2026-05-16</title></rect>
+<rect class="day" x="679" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.774s;transform-origin:684.5px 51.5px"><title>0 contributions on 2026-05-17</title></rect>
+<rect class="day" x="679" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.792s;transform-origin:684.5px 65.5px"><title>0 contributions on 2026-05-18</title></rect>
+<rect class="day" x="679" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.81s;transform-origin:684.5px 79.5px"><title>0 contributions on 2026-05-19</title></rect>
+<rect class="day" x="679" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.828s;transform-origin:684.5px 93.5px"><title>0 contributions on 2026-05-20</title></rect>
+<rect class="day" x="679" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.846s;transform-origin:684.5px 107.5px"><title>0 contributions on 2026-05-21</title></rect>
+<rect class="day" x="679" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.864s;transform-origin:684.5px 121.5px"><title>0 contributions on 2026-05-22</title></rect>
+<rect class="day" x="679" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.882s;transform-origin:684.5px 135.5px"><title>0 contributions on 2026-05-23</title></rect>
+<rect class="day" x="693" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.792s;transform-origin:698.5px 51.5px"><title>0 contributions on 2026-05-24</title></rect>
+<rect class="day" x="693" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.81s;transform-origin:698.5px 65.5px"><title>0 contributions on 2026-05-25</title></rect>
+<rect class="day" x="693" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.828s;transform-origin:698.5px 79.5px"><title>0 contributions on 2026-05-26</title></rect>
+<rect class="day" x="693" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.846s;transform-origin:698.5px 93.5px"><title>0 contributions on 2026-05-27</title></rect>
+<rect class="day" x="693" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.864s;transform-origin:698.5px 107.5px"><title>0 contributions on 2026-05-28</title></rect>
+<rect class="day" x="693" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.882s;transform-origin:698.5px 121.5px"><title>0 contributions on 2026-05-29</title></rect>
+<rect class="day" x="693" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.9s;transform-origin:698.5px 135.5px"><title>0 contributions on 2026-05-30</title></rect>
+<rect class="day" x="707" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.81s;transform-origin:712.5px 51.5px"><title>0 contributions on 2026-05-31</title></rect>
+<rect class="day" x="707" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.828s;transform-origin:712.5px 65.5px"><title>0 contributions on 2026-06-01</title></rect>
+<rect class="day" x="707" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.846s;transform-origin:712.5px 79.5px"><title>0 contributions on 2026-06-02</title></rect>
+<rect class="day" x="707" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.864s;transform-origin:712.5px 93.5px"><title>0 contributions on 2026-06-03</title></rect>
+<rect class="day" x="707" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.882s;transform-origin:712.5px 107.5px"><title>0 contributions on 2026-06-04</title></rect>
+<rect class="day" x="707" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.9s;transform-origin:712.5px 121.5px"><title>0 contributions on 2026-06-05</title></rect>
+<rect class="day" x="707" y="130" width="11" height="11" rx="2" fill="#006d32" style="animation-delay:0.918s;transform-origin:712.5px 135.5px"><title>4 contributions on 2026-06-06</title></rect>
+<rect class="day" x="721" y="46" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:0.828s;transform-origin:726.5px 51.5px"><title>1 contribution on 2026-06-07</title></rect>
+<rect class="day" x="721" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.846s;transform-origin:726.5px 65.5px"><title>0 contributions on 2026-06-08</title></rect>
+<rect class="day" x="721" y="74" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:0.864s;transform-origin:726.5px 79.5px"><title>1 contribution on 2026-06-09</title></rect>
+<rect class="day" x="721" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.882s;transform-origin:726.5px 93.5px"><title>0 contributions on 2026-06-10</title></rect>
+<rect class="day" x="721" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.9s;transform-origin:726.5px 107.5px"><title>0 contributions on 2026-06-11</title></rect>
+<rect class="day" x="721" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.918s;transform-origin:726.5px 121.5px"><title>0 contributions on 2026-06-12</title></rect>
+<rect class="day" x="721" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.936s;transform-origin:726.5px 135.5px"><title>0 contributions on 2026-06-13</title></rect>
+<rect class="day" x="735" y="46" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:0.846s;transform-origin:740.5px 51.5px"><title>1 contribution on 2026-06-14</title></rect>
+<rect class="day" x="735" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.864s;transform-origin:740.5px 65.5px"><title>0 contributions on 2026-06-15</title></rect>
+<rect class="day" x="735" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.882s;transform-origin:740.5px 79.5px"><title>0 contributions on 2026-06-16</title></rect>
+<rect class="day" x="735" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.9s;transform-origin:740.5px 93.5px"><title>0 contributions on 2026-06-17</title></rect>
+<rect class="day" x="735" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.918s;transform-origin:740.5px 107.5px"><title>0 contributions on 2026-06-18</title></rect>
+<rect class="day" x="735" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.936s;transform-origin:740.5px 121.5px"><title>0 contributions on 2026-06-19</title></rect>
+<rect class="day" x="735" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.954s;transform-origin:740.5px 135.5px"><title>0 contributions on 2026-06-20</title></rect>
+<rect class="day" x="749" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.864s;transform-origin:754.5px 51.5px"><title>0 contributions on 2026-06-21</title></rect>
+<rect class="day" x="749" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.882s;transform-origin:754.5px 65.5px"><title>0 contributions on 2026-06-22</title></rect>
+<rect class="day" x="749" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.9s;transform-origin:754.5px 79.5px"><title>0 contributions on 2026-06-23</title></rect>
+<rect class="day" x="749" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.918s;transform-origin:754.5px 93.5px"><title>0 contributions on 2026-06-24</title></rect>
+<rect class="day" x="749" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.936s;transform-origin:754.5px 107.5px"><title>0 contributions on 2026-06-25</title></rect>
+<rect class="day" x="749" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.954s;transform-origin:754.5px 121.5px"><title>0 contributions on 2026-06-26</title></rect>
+<rect class="day" x="749" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.972s;transform-origin:754.5px 135.5px"><title>0 contributions on 2026-06-27</title></rect>
+<rect class="day" x="763" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.882s;transform-origin:768.5px 51.5px"><title>0 contributions on 2026-06-28</title></rect>
+<rect class="day" x="763" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.9s;transform-origin:768.5px 65.5px"><title>0 contributions on 2026-06-29</title></rect>
+<rect class="day" x="763" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.918s;transform-origin:768.5px 79.5px"><title>0 contributions on 2026-06-30</title></rect>
+<rect class="day" x="763" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.936s;transform-origin:768.5px 93.5px"><title>0 contributions on 2026-07-01</title></rect>
+<rect class="day" x="763" y="102" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.954s;transform-origin:768.5px 107.5px"><title>0 contributions on 2026-07-02</title></rect>
+<rect class="day" x="763" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.972s;transform-origin:768.5px 121.5px"><title>0 contributions on 2026-07-03</title></rect>
+<rect class="day" x="763" y="130" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.99s;transform-origin:768.5px 135.5px"><title>0 contributions on 2026-07-04</title></rect>
+<rect class="day" x="777" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.9s;transform-origin:782.5px 51.5px"><title>0 contributions on 2026-07-05</title></rect>
+<rect class="day" x="777" y="60" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.918s;transform-origin:782.5px 65.5px"><title>0 contributions on 2026-07-06</title></rect>
+<rect class="day" x="777" y="74" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.936s;transform-origin:782.5px 79.5px"><title>0 contributions on 2026-07-07</title></rect>
+<rect class="day" x="777" y="88" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.954s;transform-origin:782.5px 93.5px"><title>0 contributions on 2026-07-08</title></rect>
+<rect class="day" x="777" y="102" width="11" height="11" rx="2" fill="#39d353" style="animation-delay:0.972s;transform-origin:782.5px 107.5px"><title>10 contributions on 2026-07-09</title></rect>
+<rect class="day" x="777" y="116" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.99s;transform-origin:782.5px 121.5px"><title>0 contributions on 2026-07-10</title></rect>
+<rect class="day" x="777" y="130" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:1.008s;transform-origin:782.5px 135.5px"><title>2 contributions on 2026-07-11</title></rect>
+<rect class="day" x="791" y="46" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:0.918s;transform-origin:796.5px 51.5px"><title>1 contribution on 2026-07-12</title></rect>
+<rect class="day" x="791" y="60" width="11" height="11" rx="2" fill="#26a641" style="animation-delay:0.936s;transform-origin:796.5px 65.5px"><title>9 contributions on 2026-07-13</title></rect>
+<rect class="day" x="791" y="74" width="11" height="11" rx="2" fill="#39d353" style="animation-delay:0.954s;transform-origin:796.5px 79.5px"><title>39 contributions on 2026-07-14</title></rect>
+<rect class="day" x="791" y="88" width="11" height="11" rx="2" fill="#39d353" style="animation-delay:0.972s;transform-origin:796.5px 93.5px"><title>13 contributions on 2026-07-15</title></rect>
+<rect class="day" x="791" y="102" width="11" height="11" rx="2" fill="#39d353" style="animation-delay:0.99s;transform-origin:796.5px 107.5px"><title>39 contributions on 2026-07-16</title></rect>
+<rect class="day" x="791" y="116" width="11" height="11" rx="2" fill="#39d353" style="animation-delay:1.008s;transform-origin:796.5px 121.5px"><title>47 contributions on 2026-07-17</title></rect>
+<rect class="day" x="791" y="130" width="11" height="11" rx="2" fill="#0e4429" style="animation-delay:1.026s;transform-origin:796.5px 135.5px"><title>1 contribution on 2026-07-18</title></rect>
+<rect class="day" x="805" y="46" width="11" height="11" rx="2" fill="#161b22" style="animation-delay:0.936s;transform-origin:810.5px 51.5px"><title>0 contributions on 2026-07-19</title></rect>
+<g class="fade" style="animation-delay:1.454s">
+<text class="foot" x="77" y="162">Less</text>
+<rect x="111" y="153" width="11" height="11" rx="2" fill="#161b22"/>
+<rect x="125" y="153" width="11" height="11" rx="2" fill="#0e4429"/>
+<rect x="139" y="153" width="11" height="11" rx="2" fill="#006d32"/>
+<rect x="153" y="153" width="11" height="11" rx="2" fill="#26a641"/>
+<rect x="167" y="153" width="11" height="11" rx="2" fill="#39d353"/>
+<text class="foot" x="187" y="162">More</text>
+<text class="foot" x="816" y="162" text-anchor="end"><tspan class="hi">8-day streak</tspan><tspan> · 9 active days in the last 30 · best day 47</tspan></text>
+</g>
+</svg>

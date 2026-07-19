@@ -1,3 +1,24 @@
+<div align="center">
+
+<h3><code>bryan@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./contrib-heatmap.svg" width="860" alt="Contribution heatmap, refreshed daily" />
+
+<br><br>
+
+<h3><code>bryan@github ~ $ whoami</code></h3>
+
+<table>
+<tr>
+<td valign="top"><img src="./bryan-ascii.svg" width="370" alt="ASCII portrait of Bryan Cruz" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="neofetch-style info card" /></td>
+</tr>
+</table>
+
+</div>
+
+---
+
 # Hi, I'm Bryan Cruz 👋
 
 **Java & full-stack developer — I ship real, working software, not demos.**
@@ -37,7 +58,7 @@ tool for small Roblox teams
 > Java 21 · Spring Boot · JavaFX · React/TS
 
 **[second-brain-tools](https://github.com/Bryancruzcb/second-brain-tools)** — a local RAG search
-+ health toolkit I built for my own Obsidian vault
+and health toolkit I built for my own Obsidian vault
 > Dependency-free Python (standard library only, no `pip install`) that indexes and searches my
 > Obsidian notes with a **vector search engine I wrote from first principles** — tokenization,
 > IDF scoring, and cosine similarity, no ML libraries — then answers questions over the results
