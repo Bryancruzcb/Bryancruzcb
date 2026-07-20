@@ -2,9 +2,9 @@
 
 **Java backend and developer tooling.** I build local-first tools that hold up under the conditions that break the naive version.
 
-Computer science student at San Jose State University. Most of what I build starts as something I actually needed, then keeps going past the point where it works — into the part where I find out what breaks it. I care about proving a change is an improvement before claiming it is: measure the baseline, change one thing, measure again. The repos below are where that reasoning lives, and their READMEs are written for someone who wants to read the decisions, not just the feature list.
+Third-year computer science student at San Jose State University. Most of what I build starts as something I actually needed, then keeps going past the point where it works — into the part where I find out what breaks it. I care about proving a change is an improvement before claiming it is: measure the baseline, change one thing, measure again. The repos below are where that reasoning lives, and their READMEs are written for someone who wants to read the decisions, not just the feature list.
 
-**What I'm looking for:** new-grad / junior Software Engineer roles — Java backend, full-stack, or developer tooling. Bay Area, on-site or remote. If you're hiring, email me at **isdisbryan@gmail.com** and I'll reply the same day.
+**What I'm looking for:** Summer 2027 software engineering internships — Java backend, full-stack, or developer tooling. Bay Area, on-site or remote. If you're hiring interns, email me at **isdisbryan@gmail.com** and I'll reply the same day.
 
 ---
 
@@ -49,8 +49,11 @@ engine for my own Obsidian vault
 >
 > The part I'd point at: parsing a cloud-synced vault correctly *and* fast. The Rust core reads
 > files sequentially on purpose — parallel reads saturate OneDrive's File Provider daemon and stall
-> the whole scan — while fanning the CPU-bound link and tag extraction across cores with Rayon. I
-> only found that by running it on my own vault and watching it stall.
+> the whole scan — while fanning the CPU-bound link and tag extraction across cores with Rayon. The
+> API layer above it spots cloud placeholder files — metadata on disk, content not downloaded — on
+> both Windows and macOS without triggering a download, and serves those notes read-only from the
+> last index instead of failing the request. I only found that by running it on my own vault and
+> watching it stall.
 >
 > Rust + Rayon · FastAPI · ChromaDB · Ollama / Qwen · Next.js + React Three Fiber
 
@@ -79,4 +82,4 @@ to run my own school and job search
 - LinkedIn: [linkedin.com/in/bryan-cruz-078819279](https://www.linkedin.com/in/bryan-cruz-078819279/)
 - GitHub: [@Bryancruzcb](https://github.com/Bryancruzcb)
 
-<sub>Currently job hunting — if you're hiring junior engineers and want to see how I work, my repos are the résumé.</sub>
+<sub>Looking for Summer 2027 internships — if you're hiring interns and want to see how I work, my repos are the résumé.</sub>
