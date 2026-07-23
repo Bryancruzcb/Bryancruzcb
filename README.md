@@ -41,6 +41,25 @@ tool for small Roblox teams
 >
 > Java 21 · JavaFX · SQLite · React 19 + TypeScript · Luau · CI on every push
 
+**[aegis-eval-harness](https://github.com/Bryancruzcb/aegis-eval-harness)** — a safety and
+jailbreak evaluation harness for LLM applications
+> Fires a suite of ordinary requests and adversarial attacks — jailbreaks, prompt injection, and
+> attempts to leak a secret held in the system prompt — at a target model, then grades every
+> response two ways: fast deterministic checks first, and an LLM-as-judge for the calls a regex
+> can't make.
+>
+> The part I'd point at: the naive version counts a rate-limit or a timeout as a safety failure,
+> which quietly corrupts the one number the tool exists to report. Every result here carries a
+> three-way status — pass, fail, or **error** — and errors are held out of the pass rate entirely,
+> so an outage reads as "couldn't be evaluated," not "failed." I found out it mattered on a real
+> run: the free-tier quota ran out mid-suite, and the harness reported every case it *could*
+> evaluate as passing while flagging the quota-blocked ones as errors, instead of a fabricated
+> failure rate. Deterministic checks run before the judge so an unambiguous secret leak never
+> spends an API call, and the HTML report escapes model output — a jailbroken response is exactly
+> the kind of thing that would smuggle in a `<script>` tag.
+>
+> Python · asyncio · Pydantic · Gemini / OpenAI / Ollama · 28 tests · CI on every push
+
 **[second-brain-tools](https://github.com/Bryancruzcb/second-brain-tools)** — a local knowledge
 engine for my own Obsidian vault
 > Reads my notes off my own machine, draws the links between them as a 3D graph, and answers
