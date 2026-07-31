@@ -101,4 +101,4 @@ to run my own school and job search
 - LinkedIn: [linkedin.com/in/bryan-cruz-078819279](https://www.linkedin.com/in/bryan-cruz-078819279/)
 - GitHub: [@Bryancruzcb](https://github.com/Bryancruzcb)
 
-<sub>Looking for Summer 2027 internships — if you're hiring interns and want to see how I work, my repos are the résumé.</sub>
+
