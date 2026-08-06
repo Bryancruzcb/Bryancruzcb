@@ -2,7 +2,7 @@
 
 **Java backend and developer tooling.** I build local-first tools that hold up under the conditions that break the naive version.
 
-Third-year computer science student at San Jose State University. Most of what I build starts as something I actually needed, then keeps going past the point where it works — into the part where I find out what breaks it. I care about proving a change is an improvement before claiming it is: measure the baseline, change one thing, measure again. The repos below are where that reasoning lives, and their READMEs are written for someone who wants to read the decisions, not just the feature list.
+Third-year computer science student at San Jose State University. Most of what I build starts as something I actually needed, then keeps going past the point where it works then into the part where I find out what breaks it. I care about proving a change is an improvement before claiming it is: measure the baseline, change one thing, measure again. The repos below are where that reasoning lives, and their READMEs are written for someone who wants to read the decisions, not just the feature list.
 
 **What I'm looking for:** Summer 2027 software engineering internships — Java backend, full-stack, or developer tooling. Bay Area, on-site or remote. If you're hiring interns, email me at **bryanlbdcruz@gmail.com** and I'll reply the same day.
 
