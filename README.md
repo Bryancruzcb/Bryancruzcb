@@ -77,7 +77,7 @@ engine for my own Obsidian vault
 > Rust + Rayon · FastAPI · ChromaDB · Ollama / Qwen · Next.js + React Three Fiber
 
 **[Signal Path](https://github.com/Bryancruzcb/signal-path)** — a browser-local workspace I built
-to run my own school and job search
+to run my job search and help prepare for classes
 > **[Open the live app →](https://bryancruzcb.github.io/signal-path/)**
 >
 > A single-page React/TypeScript app running course prep, a four-term academic plan, six career
