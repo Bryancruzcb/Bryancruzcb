@@ -48,7 +48,7 @@ jailbreak evaluation harness for LLM applications
 > response two ways: fast deterministic checks first, and an LLM-as-judge for the calls a regex
 > can't make.
 >
-> The part I'd point at: the naive version counts a rate-limit or a timeout as a safety failure,
+> The part I'd point at --> the naive version counts a rate-limit or a timeout as a safety failure,
 > which quietly corrupts the one number the tool exists to report. Every result here carries a
 > three-way status — pass, fail, or **error** — and errors are held out of the pass rate entirely,
 > so an outage reads as "couldn't be evaluated," not "failed." I found out it mattered on a real
