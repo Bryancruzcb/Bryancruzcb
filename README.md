@@ -10,9 +10,9 @@ Third-year computer science student at San Jose State University. Most of what I
 
 ### 🛠️ Tech I build with
 
-![Java](https://img.shields.io/badge/Java-21-5d86b4?style=flat-square)
+![Java](https://img.shields.io/badge/Java-24-5d86b4?style=flat-square)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3-5d86b4?style=flat-square)
-![JavaFX](https://img.shields.io/badge/JavaFX-21-5d86b4?style=flat-square)
+![JavaFX](https://img.shields.io/badge/JavaFX-26-5d86b4?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3-5d86b4?style=flat-square)
 ![React](https://img.shields.io/badge/React-19-5d86b4?style=flat-square)
 ![TypeScript](https://img.shields.io/badge/TypeScript-7-5d86b4?style=flat-square)
@@ -39,7 +39,7 @@ tool for small Roblox teams
 > recall back at no false-positive cost. Pinned by 23 golden vectors and a parity test that fails
 > if the port drifts.
 >
-> Java 24 · JavaFX · SQLite · React 19 + TypeScript · Luau · CI on push to main and on pull requests
+> Java 24 · JavaFX 26 · SQLite · React 19 + TypeScript · Luau · CI on push to main and on pull requests
 
 **[aegis-eval-harness](https://github.com/Bryancruzcb/aegis-eval-harness)** — a safety and
 jailbreak evaluation harness for LLM applications
