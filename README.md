@@ -39,7 +39,7 @@ tool for small Roblox teams
 > recall back at no false-positive cost. Pinned by 23 golden vectors and a parity test that fails
 > if the port drifts.
 >
-> Java 24 · JavaFX · SQLite · React 19 + TypeScript · Luau · CI on every push
+> Java 24 · JavaFX · SQLite · React 19 + TypeScript · Luau · CI on push to main and on pull requests
 
 **[aegis-eval-harness](https://github.com/Bryancruzcb/aegis-eval-harness)** — a safety and
 jailbreak evaluation harness for LLM applications
@@ -58,7 +58,7 @@ jailbreak evaluation harness for LLM applications
 > spends an API call, and the HTML report escapes model output — a jailbroken response is exactly
 > the kind of thing that would smuggle in a `<script>` tag.
 >
-> Python · asyncio · Pydantic · Gemini / OpenAI / Ollama · 418 tests · CI on push to main and on pull requests
+> Python · asyncio · Pydantic · Gemini / OpenAI / Ollama · 420 tests · CI on push to main and on pull requests
 
 **[second-brain-tools](https://github.com/Bryancruzcb/second-brain-tools)** — a local knowledge
 engine for my own Obsidian vault
@@ -100,6 +100,5 @@ to run my job search and help prepare for classes
 - Email: **bryancruzcb@gmail.com**
 - LinkedIn: [linkedin.com/in/bryan-cruz-078819279](https://www.linkedin.com/in/bryan-cruz-078819279/)
 - GitHub: [@Bryancruzcb](https://github.com/Bryancruzcb)
-- 
 
 
