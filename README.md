@@ -4,7 +4,7 @@
 
 Third-year computer science student at San Jose State University. Most of what I build starts as something I actually needed, then keeps going past the point where it works then into the part where I find out what breaks it. I care about proving a change is an improvement before claiming it is: measure the baseline, change one thing, measure again. The repos below are where that reasoning lives, and their READMEs are written for someone who wants to read the decisions, not just the feature list.
 
-**What I'm looking for:** Summer 2027 software engineering internships — Java backend, full-stack, or developer tooling. Bay Area, on-site or remote. If you're hiring interns, email me at **bryanlbdcruz@gmail.com** and I'll reply the same day.
+**What I'm looking for:** Summer 2027 software engineering internships — Java backend, full-stack, or developer tooling. Bay Area, on-site or remote. If you're hiring interns, email me at **bryancruzcb@gmail.com** and I'll reply the same day.
 
 ---
 
@@ -39,7 +39,7 @@ tool for small Roblox teams
 > recall back at no false-positive cost. Pinned by 23 golden vectors and a parity test that fails
 > if the port drifts.
 >
-> Java 21 · JavaFX · SQLite · React 19 + TypeScript · Luau · CI on every push
+> Java 24 · JavaFX · SQLite · React 19 + TypeScript · Luau · CI on every push
 
 **[aegis-eval-harness](https://github.com/Bryancruzcb/aegis-eval-harness)** — a safety and
 jailbreak evaluation harness for LLM applications
@@ -58,7 +58,7 @@ jailbreak evaluation harness for LLM applications
 > spends an API call, and the HTML report escapes model output — a jailbroken response is exactly
 > the kind of thing that would smuggle in a `<script>` tag.
 >
-> Python · asyncio · Pydantic · Gemini / OpenAI / Ollama · 28 tests · CI on every push
+> Python · asyncio · Pydantic · Gemini / OpenAI / Ollama · 418 tests · CI on push to main and on pull requests
 
 **[second-brain-tools](https://github.com/Bryancruzcb/second-brain-tools)** — a local knowledge
 engine for my own Obsidian vault
