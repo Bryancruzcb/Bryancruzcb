@@ -1,6 +1,6 @@
 
 
-### 🛠️ Tech I build with
+### Tech I build with
 
 ![Java](https://img.shields.io/badge/Java-24-5d86b4?style=flat-square)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3-5d86b4?style=flat-square)
